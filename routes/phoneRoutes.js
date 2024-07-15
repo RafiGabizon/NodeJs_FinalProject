@@ -178,12 +178,12 @@ router.get('/q16', async (req, res) => {
     const aggregationResult = await PhoneModel.aggregate([
       {
         $group: {
-          _id: "$company_id", // קיבוץ לפי ID_COMPANY
-          count: { $sum: 1 } // ספירת כמות הסמרטפונים בכל חברה
+          _id: "$company_id",
+          count: { $sum: 1 }
         }
       },
       {
-        $sort: { count: -1 } // מיין לפי כמות מהגבוה לנמוך (אופציונלי)
+        $sort: { count: -1 }
       }
     ]);
 
@@ -201,12 +201,12 @@ router.get('/q17', async (req, res) => {
     const aggregationResult = await PhoneModel.aggregate([
       {
         $group: {
-          _id: "$company_id", // קיבוץ לפי ID_COMPANY
-          averagePrice: { $avg: "$price" } // חישוב המחיר הממוצע
+          _id: "$company_id",
+          averagePrice: { $avg: "$price" }
         }
       },
       {
-        $sort: { averagePrice: 1 } // מיין לפי מחיר ממוצע מהנמוך לגבוה (אופציונלי)
+        $sort: { averagePrice: 1 }
       }
     ]);
 
@@ -224,12 +224,12 @@ router.get('/q18', async (req, res) => {
     const aggregationResult = await PhoneModel.aggregate([
       {
         $group: {
-          _id: "$company_id", // קיבוץ לפי ID_COMPANY
-          minPrice: { $min: "$price" } // חישוב המחיר הזול ביותר
+          _id: "$company_id",
+          minPrice: { $min: "$price" }
         }
       },
       {
-        $sort: { minPrice: 1 } // מיין לפי מחיר מהזול ליקר (אופציונלי)
+        $sort: { minPrice: 1 } 
       }
     ]);
 
