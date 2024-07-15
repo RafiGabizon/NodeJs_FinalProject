@@ -1,4 +1,3 @@
-// /admin/adminPhones.js
 const Phone = require('../models/phoneModel.js');
 
 const getPhones = async (req, res) => {
