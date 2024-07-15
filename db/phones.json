@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80a8"
+  },
+  "name": "Galaxy s10",
+  "cpu": "Snapdragon 855",
+  "company_id": "2",
+  "gpu": "Qualcomm Adreno 640",
+  "battery_score": "60",
+  "total_score": "99",
+  "price": 2400
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80a9"
+  },
+  "name": "Mi 10",
+  "cpu": "Qualcomm Snapdragon 865",
+  "company_id": "1",
+  "gpu": "Qualcomm Adreno 650",
+  "battery_score": "83",
+  "total_score": "100",
+  "price": 2300
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80aa"
+  },
+  "name": "Redmi Note 8 Pro",
+  "cpu": "MediaTek Helio G90T",
+  "company_id": "1",
+  "gpu": "Arm Mali-G76",
+  "battery_score": "79",
+  "total_score": "99",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80ab"
+  },
+  "name": "Galaxy S20",
+  "cpu": "Samsung Exynos 990",
+  "company_id": "2",
+  "gpu": "ARM Mali-G77",
+  "battery_score": "75",
+  "total_score": "87",
+  "price": 3000
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80ac"
+  },
+  "name": "Redmi Note 9S",
+  "cpu": "Qualcomm Snapdragon 720G",
+  "company_id": "1",
+  "gpu": "Qualcomm Adreno 618",
+  "battery_score": "87",
+  "total_score": "89",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80ad"
+  },
+  "name": "Galaxy A71",
+  "cpu": "Qualcomm Snapdragon 730",
+  "company_id": "2",
+  "gpu": "QUalcomm Adreno 618",
+  "battery_score": "80",
+  "total_score": "85",
+  "price": 1400
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80ae"
+  },
+  "name": "Galaxy S10e",
+  "cpu": "Samsung Exynos 9 9820",
+  "company_id": "2",
+  "gpu": "ARM Mali-G76 MP12",
+  "battery_score": "53",
+  "total_score": "78",
+  "price": 1700
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80af"
+  },
+  "name": "Galaxy S10 Plus",
+  "cpu": "Qualcomm Snapdragon 855",
+  "company_id": "2",
+  "gpu": "Qualcomm Adreno 640",
+  "battery_score": "76",
+  "total_score": "94",
+  "price": 2400
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80b0"
+  },
+  "name": "Redmi K20 / mi 9 t",
+  "cpu": "Qualcomm Snapdragon 730",
+  "company_id": "1",
+  "gpu": "QUalcomm Adreno 618",
+  "battery_score": "73",
+  "total_score": "86",
+  "price": 1200
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80b1"
+  },
+  "name": "Galaxy A51",
+  "cpu": "Samsung Exynos 7 Octa 9611",
+  "company_id": "2",
+  "gpu": "ARM Mali-G72 MP3",
+  "battery_score": "69",
+  "total_score": "82",
+  "price": 1000
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80b2"
+  },
+  "name": "OnePlus 7T",
+  "cpu": "Qualcomm Snapdragon 855 Plus",
+  "company_id": "3",
+  "gpu": "Qualcomm Adreno 640",
+  "battery_score": "64",
+  "total_score": "90",
+  "price": 2100
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80b3"
+  },
+  "name": "Iphone 11",
+  "cpu": "Apple A13 Bionic\r\n",
+  "company_id": "4",
+  "gpu": "Apple 4 core A13 GPU",
+  "battery_score": "76",
+  "total_score": "80",
+  "price": 3000
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80b4"
+  },
+  "name": "Iphone 14 pro max",
+  "cpu": "Apple A13 Bionic",
+  "company_id": "4",
+  "gpu": "Apple 4 core A13 GPU",
+  "battery_score": "88",
+  "total_score": "80",
+  "price": 4950
+},
+{
+  "_id": {
+    "$oid": "664ca8ac9ad35caf0ebc80b5"
+  },
+  "name": "Apple iPhone SE 2020",
+  "cpu": "Apple A13 Bionic",
+  "company_id": "4",
+  "gpu": "Apple 4 core A13 GPU",
+  "battery_score": "34",
+  "total_score": "79",
+  "price": 1800
+}]

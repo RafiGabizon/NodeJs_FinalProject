@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "664ca95b9ad35caf0ebc80ba"
+  },
+  "id": "1",
+  "name": "Samsung",
+  "country": "korea"
+},
+{
+  "_id": {
+    "$oid": "664ca9799ad35caf0ebc80bb"
+  },
+  "id": "2",
+  "name": "Xiaomi",
+  "country": "china"
+},
+{
+  "_id": {
+    "$oid": "664ca98d9ad35caf0ebc80bc"
+  },
+  "id": "3",
+  "name": "OnePlus",
+  "country": "china"
+},
+{
+  "_id": {
+    "$oid": "664ca99b9ad35caf0ebc80bd"
+  },
+  "id": "4",
+  "name": "Apple",
+  "country": "usa"
+}]
