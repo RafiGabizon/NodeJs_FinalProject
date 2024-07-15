@@ -1,4 +1,3 @@
-// /admin/adminCompanies.js
 const Company = require('../models/companyModel.js');
 
 const getCompanies = async (req, res) => {
